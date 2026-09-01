@@ -44,7 +44,7 @@
 
 ---
 
-## ✅ Solution — Five Integrated Layers
+## Solution — Five Integrated Layers
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
